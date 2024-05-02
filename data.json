@@ -1,0 +1,308 @@
+[
+    {
+        "AcademicYear": "2022-2023",
+        "Data": [
+            {"Month": "Jan-23", "Total Students": 434, "Schools Covered": 34, "Teachers": 33, "Sponsors": 24, "States Covered": 13},
+            {"Month": "Feb-23", "Total Students": 360, "Schools Covered": 30, "Teachers": 30, "Sponsors": 25, "States Covered": 11},
+            {"Month": "Mar-23", "Total Students": 422, "Schools Covered": 33, "Teachers": 33, "Sponsors": 28, "States Covered": 10},
+            {"Month": "Apr-23", "Total Students": 439, "Schools Covered": 26, "Teachers": 26, "Sponsors": 26, "States Covered": 17},
+            {"Month": "May-23", "Total Students": 430, "Schools Covered": 30, "Teachers": 30, "Sponsors": 27, "States Covered": 16},
+            {"Month": "Jun-23", "Total Students": 435, "Schools Covered": 26, "Teachers": 26, "Sponsors": 20, "States Covered": 16},
+            {"Month": "Jul-22", "Total Students": 438, "Schools Covered": 33, "Teachers": 37, "Sponsors": 20, "States Covered": 12},
+            {"Month": "Aug-22", "Total Students": 427, "Schools Covered": 38, "Teachers": 28, "Sponsors": 23, "States Covered": 14},
+            {"Month": "Sep-22", "Total Students": 417, "Schools Covered": 12, "Teachers": 18, "Sponsors": 25, "States Covered": 13},
+            {"Month": "Oct-22", "Total Students": 437, "Schools Covered": 16, "Teachers": 24, "Sponsors": 29, "States Covered": 19},
+            {"Month": "Nov-22", "Total Students": 450, "Schools Covered": 20, "Teachers": 20, "Sponsors": 23, "States Covered": 18},
+            {"Month": "Dec-22", "Total Students": 390, "Schools Covered": 23, "Teachers": 23, "Sponsors": 21, "States Covered": 12}
+        ],
+        "StudentData": [
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 75, "Post Mid Marks": 80},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 82, "Post Mid Marks": 88},
+            {"Gender": "Female", "College": "Co-ed College", "Pre Mid Marks": 67, "Post Mid Marks": 75},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 55, "Post Mid Marks": 60},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 90, "Post Mid Marks": 95},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 72, "Post Mid Marks": 78},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 68, "Post Mid Marks": 72},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 78, "Post Mid Marks": 83},
+            {"Gender": "Female", "College": "Co-ed College", "Pre Mid Marks": 63, "Post Mid Marks": 70},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 85, "Post Mid Marks": 90},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 72, "Post Mid Marks": 78},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 90, "Post Mid Marks": 95},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 60, "Post Mid Marks": 65},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 65, "Post Mid Marks": 70},
+            {"Gender": "Female", "College": "Co-ed College", "Pre Mid Marks": 80, "Post Mid Marks": 85},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 78, "Post Mid Marks": 83},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 73, "Post Mid Marks": 79},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 88, "Post Mid Marks": 92},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 70, "Post Mid Marks": 75},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 85, "Post Mid Marks": 90},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 75, "Post Mid Marks": 80},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 77, "Post Mid Marks": 82},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 68, "Post Mid Marks": 73},
+            {"Gender": "Female", "College": "Co-ed College", "Pre Mid Marks": 72, "Post Mid Marks": 78},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 80, "Post Mid Marks": 85}
+        ],
+        
+        
+    
+        "SubjectsData": [
+            {
+                "Subjects": "Math",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 60,
+                        "Pretest2": 65,
+                        "Posttest1": 75,
+                        "Posttest2": 80
+                    },
+                    "Category 2": {
+                        "Pretest1": 55,
+                        "Pretest2": 60,
+                        "Posttest1": 70,
+                        "Posttest2": 75
+                    },
+                    "Category 3": {
+                        "Pretest": 65,
+                        "Posttest": 70
+                    }
+                }
+            },
+            {
+                "Subjects": "English",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 65,
+                        "Pretest2": 70,
+                        "Posttest1": 80,
+                        "Posttest2": 85
+                    },
+                    "Category 2": {
+                        "Pretest1": 60,
+                        "Pretest2": 65,
+                        "Posttest1": 75,
+                        "Posttest2": 80
+                    },
+                    "Category 3": {
+                        "Pretest": 70,
+                        "Posttest": 75
+                    }
+                }
+            },
+            {
+                "Subjects": "Geography",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 55,
+                        "Pretest2": 60,
+                        "Posttest1": 70,
+                        "Posttest2": 75
+                    },
+                    "Category 2": {
+                        "Pretest1": 50,
+                        "Pretest2": 55,
+                        "Posttest1": 65,
+                        "Posttest2": 70
+                    },
+                    "Category 3": {
+                        "Pretest": 60,
+                        "Posttest": 65
+                    }
+                }
+            },
+            {
+                "Subjects": "Chemistry",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 70,
+                        "Pretest2": 75,
+                        "Posttest1": 85,
+                        "Posttest2": 90
+                    },
+                    "Category 2": {
+                        "Pretest1": 65,
+                        "Pretest2": 70,
+                        "Posttest1": 80,
+                        "Posttest2": 85
+                    },
+                    "Category 3": {
+                        "Pretest": 75,
+                        "Posttest": 80
+                    }
+                }
+            },
+            {
+                "Subjects": "Economics",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 75,
+                        "Pretest2": 80,
+                        "Posttest1": 90,
+                        "Posttest2": 95
+                    },
+                    "Category 2": {
+                        "Pretest1": 70,
+                        "Pretest2": 75,
+                        "Posttest1": 85,
+                        "Posttest2": 90
+                    },
+                    "Category 3": {
+                        "Pretest": 80,
+                        "Posttest": 85
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "AcademicYear": "2023-2024",
+        "Data": [
+            {"Month": "Jan-24", "Total Students": 350, "Schools Covered": 26, "Teachers": 26, "Sponsors": 33, "States Covered": 31},
+            {"Month": "Feb-24", "Total Students": 360, "Schools Covered": 29, "Teachers": 30, "Sponsors": 27, "States Covered": 36},
+            {"Month": "Mar-24", "Total Students": 320, "Schools Covered": 31, "Teachers": 33, "Sponsors": 36, "States Covered": 15},
+            {"Month": "Apr-24", "Total Students": 380, "Schools Covered": 26, "Teachers": 29, "Sponsors": 26, "States Covered": 29},
+            {"Month": "May-24", "Total Students": 310, "Schools Covered": 29, "Teachers": 32, "Sponsors": 40, "States Covered": 33},
+            {"Month": "Jun-24", "Total Students": 390, "Schools Covered": 30, "Teachers": 30, "Sponsors": 35, "States Covered": 18},
+            {"Month": "Jul-23", "Total Students": 300, "Schools Covered": 42, "Teachers": 6, "Sponsors": 30, "States Covered": 11},
+            {"Month": "Aug-23", "Total Students": 250, "Schools Covered": 38, "Teachers": 12, "Sponsors": 35, "States Covered": 17},
+            {"Month": "Sep-23", "Total Students": 270, "Schools Covered": 25, "Teachers": 18, "Sponsors": 29, "States Covered": 23},
+            {"Month": "Oct-23", "Total Students": 330, "Schools Covered": 29, "Teachers": 24, "Sponsors": 20, "States Covered": 10},
+            {"Month": "Nov-23", "Total Students": 340, "Schools Covered": 30, "Teachers": 36, "Sponsors": 39, "States Covered": 23},
+            {"Month": "Dec-23", "Total Students": 300, "Schools Covered": 37, "Teachers": 29, "Sponsors": 28, "States Covered": 21}
+            
+        ],
+        "StudentData": [
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 78, "Post Mid Marks": 83},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 85, "Post Mid Marks": 90},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 63, "Post Mid Marks": 70},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 90, "Post Mid Marks": 95},
+            {"Gender": "Female", "College": "Co-ed College", "Pre Mid Marks": 70, "Post Mid Marks": 75},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 77, "Post Mid Marks": 82},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 75, "Post Mid Marks": 80},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 68, "Post Mid Marks": 73},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 72, "Post Mid Marks": 78},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 80, "Post Mid Marks": 85},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 82, "Post Mid Marks": 88},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 75, "Post Mid Marks": 80},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 77, "Post Mid Marks": 82},
+            {"Gender": "Female", "College": "Co-ed College", "Pre Mid Marks": 68, "Post Mid Marks": 73},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 90, "Post Mid Marks": 95},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 70, "Post Mid Marks": 75},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 78, "Post Mid Marks": 83},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 65, "Post Mid Marks": 70},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 85, "Post Mid Marks": 90},
+            {"Gender": "Female", "College": "Co-ed College", "Pre Mid Marks": 77, "Post Mid Marks": 82},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 72, "Post Mid Marks": 78},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 68, "Post Mid Marks": 73},
+            {"Gender": "Male", "College": "Co-ed College", "Pre Mid Marks": 80, "Post Mid Marks": 85},
+            {"Gender": "Male", "College": "Male College", "Pre Mid Marks": 82, "Post Mid Marks": 88},
+            {"Gender": "Female", "College": "Female College", "Pre Mid Marks": 75, "Post Mid Marks": 80}
+        ],
+        "SubjectsData": [
+            {
+                "Subjects": "Science",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 70,
+                        "Pretest2": 75,
+                        "Posttest1": 85,
+                        "Posttest2": 90
+                    },
+                    "Category 2": {
+                        "Pretest1": 65,
+                        "Pretest2": 70,
+                        "Posttest1": 80,
+                        "Posttest2": 85
+                    },
+                    "Category 3": {
+                        "Pretest": 75,
+                        "Posttest": 80
+                    }
+                }
+            },
+            {
+                "Subjects": "History",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 75,
+                        "Pretest2": 80,
+                        "Posttest1": 90,
+                        "Posttest2": 95
+                    },
+                    "Category 2": {
+                        "Pretest1": 70,
+                        "Pretest2": 75,
+                        "Posttest1": 85,
+                        "Posttest2": 90
+                    },
+                    "Category 3": {
+                        "Pretest": 80,
+                        "Posttest": 85
+                    }
+                }
+            },
+            {
+                "Subjects": "Physics",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 80,
+                        "Pretest2": 85,
+                        "Posttest1": 95,
+                        "Posttest2": 100
+                    },
+                    "Category 2": {
+                        "Pretest1": 75,
+                        "Pretest2": 80,
+                        "Posttest1": 90,
+                        "Posttest2": 95
+                    },
+                    "Category 3": {
+                        "Pretest": 85,
+                        "Posttest": 90
+                    }
+                }
+            },
+            {
+                "Subjects": "Biology",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 85,
+                        "Pretest2": 90,
+                        "Posttest1": 95,
+                        "Posttest2": 100
+                    },
+                    "Category 2": {
+                        "Pretest1": 80,
+                        "Pretest2": 85,
+                        "Posttest1": 90,
+                        "Posttest2": 95
+                    },
+                    "Category 3": {
+                        "Pretest": 90,
+                        "Posttest": 95
+                    }
+                }
+            },
+            {
+                "Subjects": "Computer Science",
+                "Test Scores": {
+                    "Category 1": {
+                        "Pretest1": 90,
+                        "Pretest2": 95,
+                        "Posttest1": 100,
+                        "Posttest2": 105
+                    },
+                    "Category 2": {
+                        "Pretest1": 85,
+                        "Pretest2": 90,
+                        "Posttest1": 95,
+                        "Posttest2": 100
+                    },
+                    "Category 3": {
+                        "Pretest": 95,
+                        "Posttest": 100
+                    }
+                }
+            }
+        ]
+    }
+]
